@@ -1,0 +1,167 @@
+body{
+    font-family: "Montserrat";
+}
+
+h1{
+    font-family: 'Oleo Script', cursive;
+    font-size: 4rem;
+    color:white;
+}
+h2{
+    font-size: 1.6rem;  
+    line-height: 1.5;  
+    font-weight: 900;    
+}
+
+h3{
+    font-size: 1.2rem;  
+    line-height: 1.5;  
+    font-weight: 900;    
+}
+
+p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+}
+
+
+/* Navigator section*/
+
+
+#navigator{
+    background-color:#E5D1FA;
+}
+
+
+.container-fluid{
+    padding: 7% 15%;   
+}
+
+.navbar{
+    background-color:#E5D1FA;
+    padding: 0;
+}
+
+
+
+.navbar-brand{
+    font-family: 'Oleo Script', cursive;
+    font-size: 3rem;
+    font-weight: bold;     
+    color: white;  
+    margin-left:5%; 
+    padding: 0;
+}
+
+.navbar-toggler{
+    border-color: white;
+    border-width: 0.375rem;
+}
+.nav-link{    
+    margin: 0 2rem;
+    padding: 0;
+    box-shadow: 10px 5px 5px #FFF4D2;
+}
+
+/* Love-Calculator Section  */
+
+.cards-container{
+    padding:3% 5%;
+    text-align: center;
+}
+
+.card img{
+    width: 10rem;
+    height:10rem;
+    border-radius: 25%;
+    margin: 5% auto; 
+}
+
+
+/* Memories Section  */
+
+#memories {
+    background-color: #E3DFFD;
+}
+
+#memories img{
+    width:80%;
+    height: 45%;
+    border-radius: 15%;
+}
+
+.text-carousel{
+   padding: 18% 20%;
+}
+
+
+
+/* Sweet Message  */
+
+#Sweet-Message h1{
+    color: black;
+}
+
+.audio-col{
+    display: inline-block;
+}
+
+/* .audio{
+    display:block;
+    border:solid 10px #E5D1FA;
+    border-radius: 100%;
+    padding: 0;
+}
+
+.audio img{
+    display: block;
+    border-radius: 100%;
+} */
+
+
+.audio {
+    outline: none;
+    border: 10px solid #E5D1FA;
+    color: #DA0463;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    margin: 15px;
+    background-image: url("../images/i_love_you.jpg");
+    background-size: contain;
+    border-radius: 100%;
+  }
+
+  /* .audio img{
+    width: 150px;
+    height: 150px;
+    display: block;
+  } */
+
+#Sweet-Message a{
+    margin: 5% 9%;
+}
+
+.playing-audio{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+
+
+/* Footer  */
+
+#Footer{
+    background-color: #E5D1FA;
+}
+
+#Footer i{
+    padding: 5% 5%;
+}
+
+#Footer p{
+    font-size: 1rem;
+    color: grey;
+}

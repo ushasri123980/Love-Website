@@ -1,0 +1,46 @@
+
+   body, html {
+    height: 100%;
+  }
+  
+  h1{    
+    text-align: center;
+    font-family:'Oleo Script', cursive;
+    font-weight: bold;
+    font-size: 4rem;
+    margin: 2.4% auto;
+  }  
+
+  h5{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin: 2.4% auto;
+  }
+
+  .bg {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255,244,210, 0.5)),url("../images/diceimage.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+
+  .home-btn{   
+    padding: 3% 0 0 5% ; 
+  }
+  
+  .content{
+    text-align: center;  
+    padding: auto 15%; 
+    color: #FFF4D2;
+  }
+
+  .dice-btn{
+    margin: 3% auto;
+    width: 30rem;
+    font-family:'Oleo Script', cursive;
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
