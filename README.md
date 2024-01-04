@@ -40,5 +40,5 @@ Please don't hesitate to ask for further information or clarification.
 
 Best regards,  
 Usha sri potti  
-Email: ushasrisai300@gmail.com(mailto:ushasrisai300@gmail.com)
+Email: ushasrisai300@gmail.com
 
